@@ -1,0 +1,44 @@
+body {
+  background-color: lightgrey;
+}
+
+header {
+  background-color: light yellow;
+}
+
+h3 {
+  color: #345B63;
+}
+
+.h1 {
+  color: #345B63;
+  font-style:italic;
+  font-size:80px;
+  height: 30%;
+}
+
+h2 {
+  color:#345B63;
+}
+
+#d {
+  font-size: 3em;
+  color: golden;
+  background-color: salmon;
+  width: 100%;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: salmon;
+  width: 10%;
+  heigth: 0px;
+  border-width: 10px;
+}
+.para:hover{
+  font-size:20px;
+  color:black;
+  background-color:#F9CF93;
+  transition:background-color .5s;
+  font-style:normal;
+}
